@@ -1,0 +1,27 @@
+{
+  "name": "explain-ts-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y-omasa-kbc/explain-ts-promise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/y-omasa-kbc/explain-ts-promise/issues"
+  },
+  "homepage": "https://github.com/y-omasa-kbc/explain-ts-promise#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "@types/node": "^16.11.6",
+    "ts-node": "^10.4.0"
+  }
+}
