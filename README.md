@@ -1,6 +1,6 @@
 # explain-ts-promise
 ## About This Repository
-Intended to be provided to students of Kawahara Computer Business College (KBC) as an example of a dynamyc webpage project using Express framework on TypeScript.  
+Intended to be provided to students of Kawahara Computer Business College (KBC) to be used as sample code for explaining asynchronous processing on TypeScript.  
 このリポジトリは、河原電子ビジネス専門学校の学生に提供するために作成された、TypeScriptにおける非同期処理の記述を解説する際のコードサンプルです。
 
 
